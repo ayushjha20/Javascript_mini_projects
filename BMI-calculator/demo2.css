@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: grey;
+}
+header {
+  text-align: center;
+  font-size: 50px;
+  text-transform: uppercase;
+  margin-bottom: 50px;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  color: black;
+  font-weight: 200;
+}
+.body input[type="text"] {
+  color: white;
+}
+.body button {
+  font-weight: 200;
+  text-transform: uppercase;
+  background-color: white;
+  border-radius: 5px;
+}
+footer{
+    text-align: center;
+    padding-top: 40px;
+}
