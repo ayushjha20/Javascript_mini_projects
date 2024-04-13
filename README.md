@@ -46,8 +46,10 @@ The background switcher project allows users to change the background color of a
 1. Clone this repository.
 2. Open the `background_switcher.html` file in a web browser.
 
-4. Calculator
-Description
+### 4. Calculator
+
+
+### Description
 The calculator project is a basic arithmetic calculator that performs addition, subtraction, multiplication, and division operations. It allows users to input numbers and operators and displays the result accordingly.
 
 ### Technologies Used
